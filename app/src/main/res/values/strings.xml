@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="username">Username</string>
+    <string name="dicoding_indonesia">Dicoding Indonesia</string>
+    <string name="profile">Foto Profile</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="amount_followers">%s followers</string>
+    <string name="amount_following">%s following</string>
+    <string name="amount_repository">%s repository</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="logo">Logo Aplikasi</string>
+</resources>
